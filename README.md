@@ -2,6 +2,12 @@
 
 海外のスタートアップ・オンラインビジネス売買サイトを比較検討できるインタラクティブWebアプリケーション
 
+## 🚀 1クリックデプロイ
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/BKStock/startup-marketplace-compare)
+
+**デモサイト**: [準備中]
+
 ## 🚀 特徴
 
 - **23サイト掲載**: 16のビジネス売買サイト + 7のツール販売サイト
